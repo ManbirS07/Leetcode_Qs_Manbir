@@ -39,7 +39,7 @@ Inorder Traversal is the type of Depth First Traversal where nodes are visited i
 Algorithm:
 
 
-Step 1: Initialise an empty vector ans to store the preorder traversal result and a variable current to store the root node. Create a stack to store the nodes during traversal and push the root node onto the stack.Check if the root is null, return an empty traversal result if true.
+Step 1: Initialise an empty vector ans to store the inorder traversal result and a variable current to store the root node. Create a stack to store the nodes during traversal and push the root node onto the stack.Check if the root is null, return an empty traversal result if true.
 
 Step 2: 
 Since we have to get the leftmost node first,run a while loop
