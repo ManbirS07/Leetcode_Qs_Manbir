@@ -20,26 +20,17 @@ public:
         for(int j = i; j < n; j++) {
             string subString = s.substr(i, j - i + 1);
 
-            if(isPalindrome(subString)) { //this can be a valid partition
+            if(isPalindrome(subString)) { //this can be a valid partition //(n)
                 temp.push_back(subString); //do
-                // //agar remaining word yahi pe palindrome ban jaa rha h we can check, toh directly add it in temp and then add temp to ans to save a few recursion calls
-                // string rem = s.substr(j + 1, n - j - 1);
-
-                // if(isPalindrome(rem) && rem != "") {
-                //     temp.push_back(rem); 
-                //     ans.push_back(temp);
-
-                //     temp.pop_back(); //2 baari kyuki maine word + remaining word dala h
-                //     temp.pop_back();
-                // }
-
-                //do, explore, undo -> backtrack
                 solve(j + 1, n, s, ans, temp);
                 temp.pop_back(); //undo
             }
         }
     }
-    vector<vector<string>> partition(string s) {
+    vector<vector<string>> partition(string s) { //This is a backtracking problem where we decide at each position whether to "cut" the string or not -> 2^n
+        //loop runs for total n time and O(n) to check palindrome
+        //hence tc -> O(n2 * 2^n)
+
         int n = s.size();
         vector<vector<string>> ans;
         //har valid partition ke liye ek alag temp vector banega
