@@ -19,45 +19,41 @@ public:
         // combination as 1 if at any stage, the string becomes one from
         // deadends, we don't explore it furthur
         unordered_set<string> deadend(begin(deadends), end(deadends));
-        unordered_set<string> visited;
+        //we can re-use the deadend set instead of a new visited set
 
-        queue<pair<string, int>> q;
         string start = "0000";
         if(deadend.find(start) != deadend.end()) return -1;
 
+        queue<pair<string, int>> q;
         q.push({start, 0});
-        visited.insert(start);
+        deadend.insert(start);
 
-        while (!q.empty()) {
-            string s = q.front().first;
-            int turns = q.front().second;
+        while(!q.empty()) {
+            string currCombo = q.front().first;
+            int ops = q.front().second;
             q.pop();
 
-            if (s == target)
-                return turns;
+            if(currCombo == target) return ops;
 
-            for (int i = 0; i < 4; i++) {
-                // ek baar aage rotate, ek baari peeche rotate
-                char currChar = s[i];
-                char forwardChar = (currChar == '9' ? '0' : currChar + 1);
-                s[i] = forwardChar;
+            for(int i = 0; i < 4; i++) {
+                char currChar = currCombo[i];
+                string newCombo = currCombo;
+                //ek baar try to rotate aage, and then peeche
+                char next = nextChar(currChar);
+                newCombo[i] = next;
 
-                if (visited.find(s) == visited.end() &&
-                    deadend.find(s) == deadend.end()) {
-                    q.push({s, turns + 1});
-                    visited.insert(s);
+                if(deadend.find(newCombo) == deadend.end()) {
+                    q.push({newCombo, ops + 1});
+                    deadend.insert(newCombo); //visited
                 }
 
-                char previousChar = (currChar == '0' ? '9' : currChar - 1);
-                s[i] = previousChar;
+                char prev = prevChar(currChar);
+                newCombo[i] = prev;
 
-                if (visited.find(s) == visited.end() &&
-                    deadend.find(s) == deadend.end()) {
-                    q.push({s, turns + 1});
-                    visited.insert(s);
+                if(deadend.find(newCombo) == deadend.end()) {
+                    q.push({newCombo, ops + 1});
+                    deadend.insert(newCombo); 
                 }
-
-                s[i] = currChar; 
             }
         }
         return -1;
