@@ -33,3 +33,15 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
