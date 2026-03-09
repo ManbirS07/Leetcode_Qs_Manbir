@@ -45,6 +45,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,5 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 <!---LeetCode Topics End-->
