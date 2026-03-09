@@ -44,4 +44,13 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
 <!---LeetCode Topics End-->
