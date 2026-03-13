@@ -56,9 +56,11 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 <!---LeetCode Topics End-->
