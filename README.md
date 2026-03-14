@@ -41,6 +41,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +64,12 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
