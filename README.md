@@ -41,6 +41,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Two Pointers
@@ -75,4 +76,12 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2653-sliding-subarray-beauty/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 <!---LeetCode Topics End-->
