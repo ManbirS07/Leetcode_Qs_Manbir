@@ -40,6 +40,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -49,6 +50,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -79,9 +81,18 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 <!---LeetCode Topics End-->
