@@ -43,6 +43,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Two Pointers
@@ -83,6 +84,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
