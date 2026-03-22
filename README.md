@@ -98,4 +98,20 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
