@@ -46,6 +46,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | [0826-most-profit-assigning-work](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,20 @@ This repository serves as a personal log of my journey in solving LeetCode probl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManbirS07/Leetcode_Qs_Manbir/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
